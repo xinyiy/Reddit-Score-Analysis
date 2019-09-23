@@ -4,4 +4,4 @@ Identify whether a Reddit user would be a good one working with the Reddit comme
 
 ## Data
 
-From Oct/Nov/Dev 2018 and Jan 2019.
+Reddit comments archive from Oct/Nov/Dev 2018 and Jan 2019.
